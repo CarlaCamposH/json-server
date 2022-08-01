@@ -1,4 +1,5 @@
-[
+{
+    "players":[
     {"id":0, "numero": 0, "nombre": "","apellido":"Xavi", "posicion": "Entrenador", "partidos": 0, "goles": 0, "asistencias": 0, "imagen":"./../../assets/img/xavi.jpg"},
     {"id":1, "numero": 1, "nombre": "Marc-André", "apellido":"ter Stegen", "posicion": "portero", "partidos": 327, "goles": 121, "asistencias": 767, "imagen": "./../../assets/img/terstegen.png"},
     {"id":2, "numero": 13, "nombre": "Neto", "apellido":"", "posicion": "portero", "partidos": 21, "goles": 6, "asistencias": 42, "imagen":"./../../assets/img/neto.png"},
@@ -22,6 +23,6 @@
     {"id":20, "numero": 10, "nombre": "","apellido":"Ansu Fati", "posicion": "Atacante", "partidos": 58, "goles": 19, "asistencias": 3, "imagen":"./../../assets/img/ansu.png"},
     {"id":21, "numero": 12, "nombre": "Martin","apellido":"Braithwaite", "posicion": "Atacante", "partidos": 58, "goles": 10, "asistencias": 4, "imagen":"./../../assets/img/braithwaite.png"},
     {"id":22, "numero": 19, "nombre": "Ferran","apellido":"Torres", "posicion": "Atacante", "partidos": 26, "goles": 7, "asistencias": 6, "imagen":"./../../assets/img/ferrann-torres.png"},
-    {"id":23, "numero": 25, "nombre": "Pierre-Emerick","apellido":"Aubameyang", "posicion": "Atacante", "partidos": 23, "goles": 13, "asistencias": 1, "imagen":"./../../assets/img/auba.png"}
-
-]
+    {"id":23, "numero": 25, "nombre": "Pierre-Emerick","apellido":"Aubameyang", "posicion": "Atacante", "partidos": 23, "goles": 13, "asistencias": 1, "imagen":"./../../assets/img/auba.png"}  
+    ]
+}
